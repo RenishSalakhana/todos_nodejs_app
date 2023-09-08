@@ -2,10 +2,10 @@
 
 Behold, my friend, the enigmatic realm of the to-do CURD app in the illustrious Node! 🚀🔮 Now, you may find yourself bewildered by the cryptic term CURD, which might sound like a rather peculiar cheese or a secret code for intergalactic communication. 🧀🛸 But fret not, for I shall unravel this intricate tapestry of techno-wizardry for you! 🧙‍♂️🪄
 
-C - Create 🪄
-U - Update 📝
-R - Read 📖
-D - Delete ❌
+##### C - Create 🪄
+##### U - Update 📝
+##### R - Read 📖
+##### D - Delete ❌
 
 Indeed, it does appear as if we've embarked on a quest to decipher the riddles of the digital universe! 😅🔍 Fear not, for I shall be your trusty guide through this technoscape, and together, we shall emerge victorious! 🌟💪
 
@@ -13,12 +13,13 @@ Now, let's dive into the abyss of knowledge, where the wondrous technologies of 
 
 💠 Technologies (backend) 🌐:
 
-Node.js 🌳
-Postman tool 📬
-pgAdmin4 tool 🧙‍♂️
-Postgres 🐘
-Mysql2 🐬
-Sequelize-cli 🧞‍♂️
+##### Node.js 🌳
+##### Postman tool 📬
+##### pgAdmin4 tool 🧙‍♂️
+##### Postgres 🐘
+##### Mysql2 🐬
+##### Sequelize-cli 🧞‍♂️
+
 Ah, you may be thinking, "What in the name of binary code are these mystical entities – pgAdmin4, Postgres, Mysql2, and Sequelize-cli?" 🤯🤖 But do not let these seemingly arcane names daunt you! They are as approachable as a friendly neighborhood unicorn 🦄 or a cup of tea on a lazy Sunday morning. ☕🌞
 
 So, my dear friend, take a deep breath, relax, and let's embark on this fantastical journey together, where we'll transform these abstract words into tangible digital wonders! 🌌🚀🔧
