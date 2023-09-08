@@ -7,6 +7,8 @@ This is a to-do CURD app in Node. You might wonder 🤔 what this surprising wor
 ###### R - Read 
 ###### D - Delete 
 
+Yeah ! seems bohthard 😆 🙆‍♂️ 🤮 , let's see below how the steps make it seem easiest.👊
+
 💠 Technologies(backend) : Nodejs , Postman tool , pgAdmin4 tool , postgres , mysql2 , sequelize-cli
 
 ![image](https://github.com/RenishSalakhana/todos_nodejs_app/assets/67519562/68bafe8d-c4c2-4c41-8b1d-203218c687b9)
