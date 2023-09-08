@@ -20,7 +20,7 @@ Now, let's dive into the abyss of knowledge, where the wondrous technologies of 
 ##### Mysql2 🐬
 ##### Sequelize-cli 🧞‍♂️
 
-Ah, you may be thinking, "What in the name of binary code are these mystical entities – pgAdmin4, Postgres, Mysql2, and Sequelize-cli?" 🤯🤖 But do not let these seemingly arcane names daunt you! They are as approachable as a friendly neighborhood unicorn 🦄 or a cup of tea on a lazy Sunday morning. ☕🌞
+You might have stumbled upon these seemingly arcane names – pgAdmin4, Postgres, Mysql2, and Sequelize-cli. 🤯🤖 But do not let them daunt you! They are as approachable as a friendly neighborhood unicorn 🦄 or a cup of tea on a lazy Sunday morning. ☕🌞
 
 So, my dear friend, take a deep breath, relax, and let's embark on this fantastical journey together, where we'll transform these abstract words into tangible digital wonders! 🌌🚀🔧
 
