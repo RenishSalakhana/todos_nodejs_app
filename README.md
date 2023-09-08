@@ -11,6 +11,8 @@ Yeah ! seems bohthard 😆 🙆‍♂️ 🤮 , let's see below how the steps ma
 
 💠 Technologies(backend) : Nodejs , Postman tool , pgAdmin4 tool , postgres , mysql2 , sequelize-cli
 
+You might stumble 😛 😱 upon the pgAdmin4 tool, Postgres, Mysql2, sequelize-cli, oh my God, but don't panic; it's easiest as you inhale and exhale from the atmosphere. 🙊 🐰
+
 ![image](https://github.com/RenishSalakhana/todos_nodejs_app/assets/67519562/68bafe8d-c4c2-4c41-8b1d-203218c687b9)
 
 1️⃣ Create to-do :
